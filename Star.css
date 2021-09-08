@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+    width:100%;
+    height: 100%;
+}
+
+.hero{
+  width: 1440px;
+}
+.favourite{
+    background-color: #f1f8f5;
+    width: 1440px;
+    height: 150px;
+}
+.numbers{
+    margin-left: 500px;
+    margin-top: 40px;
+}
+.customize{
+    background-color: #d4e9e2;
+    width: 1440px;
+}
+.cash{
+    background-color: #f3f1e7;
+    width: 1440px;
+}
+
+.top-left{
+  width: 33%;
+}
+.top-center{
+    width: 33%;
+}
+.top-right{
+    width: 33%;
+}
+
+.center-left{
+    width: 33%;
+  }
+  .center-center{
+      width: 33%;
+  }
+  .center-right{
+      width: 33%;
+  }
+
+  .bottom-left{
+    width: 30%;
+  }
+  .bottom-center{
+      width: 70%;
+  }
